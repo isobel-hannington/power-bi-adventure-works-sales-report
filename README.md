@@ -148,9 +148,6 @@ These figures come from the sample data, as shown in the report.
 - **Margin is a measure, not a column.** It's recalculated for whatever is selected. Adding up monthly margins would give a meaningless total.
 - **Know what "Sales" means on each page.** On My Performance, sales reach the salesperson through the table linking salespeople to their regions. The figure is all sales in his three US regions (Northeast, Central and Southeast), not only the orders he took himself.
 
-## 💼 Where this applies
-
-Finance teams and auditors regularly rely on management reports like this one. Checking what a figure includes, such as a full year or a part year, or a person's own orders or their whole region, is what lets you rely on a number or challenge it. Knowing how the data was cleaned before it reached the report matters just as much.
 
 ## 📁 Repository contents
 
