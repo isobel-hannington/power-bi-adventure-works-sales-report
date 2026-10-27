@@ -13,7 +13,7 @@ From Week 2 of my bootcamp. Adventure Works is a fictional bike company, and the
 | **Bootcamp week** | Week 2, Days 3 and 4 (September 2026), Level 3 Data Technician Skills Bootcamp, Leep Talent |
 | **Labs completed** | Lab 1: Get data · Lab 2: Clean, transform and load data · Lab 3: Configure a semantic model · Lab 4: Create DAX calculations · Lab 8: Design a report |
 | **Type** | Guided labs from Microsoft's PL-300 course |
-| **Report file** | [`adventure-works-sales-report.pbix`](adventure-works-sales-report.pbix) is the completed Lab 8 file supplied by Leep Talent. The hosted lab environment is deleted when a lab ends, so my own copy wasn't kept. |
+| **Report file** | [`adventure-works-sales-report.pbix`](adventure-works-sales-report.pbix) is the completed Lab 8 file supplied by Leep Talent.|
 
 ## 💡 Skills demonstrated
 
