@@ -46,13 +46,6 @@ From Week 2 of my bootcamp. Adventure Works is a fictional bike company, and the
 | Lab 8: Design a report | Built the Overview, Profit and My Performance pages |
 
 ## 🧩 Highlights
-
-**The cleaned model (Lab 2)**
-
-![The cleaned model's tables](images/lab2-data-model-tables.png)
-
-After cleaning, the model holds seven tables with business-friendly names.
-
 **DAX for the financial year and profit (Lab 4)**
 
 ```dax
